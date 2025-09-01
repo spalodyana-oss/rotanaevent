@@ -73,7 +73,7 @@
                 <div class="flex flex-col items-center">
                     <div class="text-4xl mb-2">📍</div>
                     <h3 class="font-semibold text-lg text-gray-800">Location</h3>
-                    <p class="text-gray-600">Khalidiya Palace Rayhaan</p>
+                    <p class="text-gray-600">Khalidiya Palace Rayhaan by Rotana</p>
                 </div>
             </div>
         </section>
