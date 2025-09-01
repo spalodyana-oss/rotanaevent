@@ -62,7 +62,7 @@
                 <div class="flex flex-col items-center">
                     <div class="text-4xl mb-2">🗓️</div>
                     <h3 class="font-semibold text-lg text-gray-800">Date</h3>
-                    <p class="text-gray-600">Wednesday, Sept 3rd</p>
+                    <p class="text-gray-600">Wednesday, 3rd of Sept.</p>
                 </div>
                 <div class="flex flex-col items-center">
                     <div class="text-4xl mb-2">🕙</div>
